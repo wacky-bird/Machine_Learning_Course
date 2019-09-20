@@ -1,4 +1,4 @@
-#READ ME
+# READ ME
 
 This is the 3rd assignment for the Machine Learning course offered by  . This assignment was based off of the 
 IEEE-CIS KAGGLE competition looking into fraud detection.
