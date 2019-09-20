@@ -5,4 +5,6 @@ This assignment was based off of the [IEEE-CIS KAGGLE competition](https://www.k
 
 Below is a plot showing the metrics of the many algorithms used.
 
-![alt text](metrics.png "Metrics")
+![alt text](https://github.com/wacky-bird/Machine_Learning_Course/blob/master/03-Fraud_Detection/Metrics.png "Metrics")
+
+
